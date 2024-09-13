@@ -1,17 +1,17 @@
 <script>
 
     export default {
-        name: 'AppTitle'
+        name: 'AppHero'
     }
 
 </script>
 
 <template>
-<h1>First time using VITE</h1>
+<h1>You're Welcome!</h1>
 </template>
 
 <style scoped>
   h1 {
-    color: red;
+    color: rgb(0, 4, 255);
   }
 </style>
